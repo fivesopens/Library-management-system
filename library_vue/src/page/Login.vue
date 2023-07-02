@@ -124,7 +124,7 @@ export default {
      margin-bottom: 10px;
   }
   .check .el-radio{
-     margin-right:10px;
+     margin-right:0px;
   } 
   .check .el-radio:nth-child(1){
      margin-left: -160px;
